@@ -11,7 +11,7 @@ An SHA key is generated in a pic like output
 
 2.	copy the key.
 cat ~/.ssh/id_ed25519.pub
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINj19BjizMywhZoJX0IkWoMiatSnvXNHQcaG+Lq8kk2+ ediaadada@gmail.com
+ssh-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ediaadada@gmail.com
 
 
 3.	Add the key to Github
